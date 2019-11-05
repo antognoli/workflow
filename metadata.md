@@ -64,7 +64,7 @@ These sites will help you obtain federally-sourced metadata that can be
 	- https://www.epa.gov/enviro/facility-registry-service-frs
 	- https://edg.epa.gov/metadata/catalog/main/home.page
 - GCMD Keywords
-	- wiki.earthdata.nasa.gov/display/cmr/gcmd+keyword+access
+	- https://wiki.earthdata.nasa.gov/display/cmr/gcmd+keyword+access
 - ATRAC
 	- https://www.ncdc.noaa.gov/atrac/index.html
 
